@@ -8,4 +8,10 @@
 1. Привет
 2. Тоже привет!)
 3. Ola! Ola!
+<<<<<<< HEAD
 4. Hello! Hi!
+=======
+4. Hello!
+3. Ola!
+4. Hello friends!
+>>>>>>> br1
